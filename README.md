@@ -1,2 +1,4 @@
-# OlaMundo
- Primeiro repositório
+# Olá, Mundo
+ Primeiro repositório.
+
+ Primeira aula em vídeo.
